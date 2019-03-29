@@ -1,0 +1,48 @@
+{
+  "name": "vuejs-owl-carousel",
+  "version": "0.0.1",
+  "description": "An Owl Carousel Wrapper For VueJS",
+  "main": "dist/vue-owl-carousel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuejs",
+    "owl-carousel",
+    "carousel",
+    "vue",
+    "component",
+    "carousel-component"
+  ],
+  "author": "phanthehien@gmail.com",
+  "bundleDependencies": false,
+  "dependencies": {
+    "css-loader": "^1.0.0",
+    "file-loader": "^2.0.0",
+    "jquery": "^3.3.1",
+    "owl.carousel": "^2.3.4",
+    "style-loader": "^0.23.0"
+  },
+  "deprecated": false,
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-eslint": "8",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-transform-runtime": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-2": "^6.11.0",
+    "babel-runtime": "^6.9.2",
+    "eslint": "4.x",
+    "eslint-config-google": "^0.11.0",
+    "eslint-plugin-vue": "^5.0.0-beta.3",
+    "rimraf": "^2.6.1",
+    "vue": "^2.2.1",
+    "vue-html-loader": "^1.2.3",
+    "vue-loader": "^11.1.4",
+    "vue-style-loader": "^2.0.3",
+    "vue-template-compiler": "^2.2.1",
+    "webpack": "1.13.1",
+    "webpack-merge": "^4.1.0"
+  },
+  "license": "MIT"
+}
